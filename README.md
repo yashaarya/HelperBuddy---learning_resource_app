@@ -1,4 +1,4 @@
-# Advanced Personalized Learning Recommender
+#  Personalized Learning Recommender
 
 This project is a hybrid learning recommendation system using **Streamlit + Python**.  
 It combines **content-based filtering** and **collaborative filtering** to provide personalized learning resources.
